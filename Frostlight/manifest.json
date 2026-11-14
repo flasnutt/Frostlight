@@ -1,0 +1,12 @@
+{
+  "name": "Frostlight",
+  "description": "A cozy winter-night theme: animated snowfall, a glowing cabin banner on Home and snow-capped cards. Two colour schemes (frost and ember).",
+  "preview": "preview.png",
+  "readme": "README.md",
+  "usercss": "user.css",
+  "schemes": "color.ini",
+  "authors": [
+    { "name": "YOUR-GITHUB-USERNAME", "url": "https://github.com/YOUR-GITHUB-USERNAME" }
+  ],
+  "tags": ["christmas", "winter", "dark", "animated", "snow"]
+}
